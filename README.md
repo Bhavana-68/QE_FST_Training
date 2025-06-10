@@ -1,3 +1,1 @@
-# QE_FST_Training
-
-HELLO
+This Repo is for Training Sessions 
